@@ -1,3 +1,4 @@
+
 Step 1 (Branch Descriptions):
 
 
@@ -111,4 +112,5 @@ rebase: when I am not working with others and I want to clean up my history and 
 squash: when I make a bunch of little commits on a branch and would like to clean it up.
 
 cherry-pick: When I want to apply a specific commit I made on one branch to another. 
+
 
